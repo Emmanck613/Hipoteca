@@ -1,2 +1,2 @@
 # Hipoteca
-Un repositorio para un proyecto de Hipoteca, con acciones CRUD. 
+Un repositorio para un proyecto de Hipoteca, con acciones CRUD y authentificación.
